@@ -4,4 +4,4 @@ title: "Essays"
 permalink: /essays/
 author_profile: true
 ---
-[/_essays/file1]
+[[/_essays/file1]]
