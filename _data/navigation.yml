@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Essays"
-    url: /publications/
+    url: /essays/
 
   - title: "Library"
     url: https://drive.google.com/drive/folders/1Szuisn-l706FrxaU9LeW6khc0MnxgXjD   
 
   - title: "Courses"
-    url: /teaching/    
+    url: /courses/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
