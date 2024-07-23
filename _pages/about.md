@@ -11,5 +11,4 @@ I am a student of Islamic Sciences and Theology at E-Markaz Ahlus Sunnah wal Jam
 My Essays will be uploaded here بفضل وعون الله تعالی عز وجل In Shaa Allah. 
 
 **Currently Studying -** Epistemology 
-
 **Last Updated on-** {{date}} {{time}}
