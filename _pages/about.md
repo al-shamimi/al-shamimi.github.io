@@ -8,4 +8,7 @@ redirect_from:
 ---
 I am a student of Islamic Sciences and Theology at E-Markaz Ahlus Sunnah wal Jama'ah which is run under the direct command and supervision of Mutakallim al-Islam Mawlana Muhammad Ilyas Ghumman Sahab دامت برکاتهم. 
 
-My Essays will be uploaded here بفضل وعون الله تعالی عز وجل. 
+My Essays will be uploaded here بفضل وعون الله تعالی عز وجل In Shaa Allah. 
+
+**Currently Studying -** Epistemology
+**Last Updated on-** {{date}} {{time}}
