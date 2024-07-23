@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zakhirah al-Shamimiyyah"
+title: "al-Zakhirah al-Shamimiyyah"
 author_profile: true
 redirect_from: 
   - /about/
